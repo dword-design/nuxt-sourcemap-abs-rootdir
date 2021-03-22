@@ -23,7 +23,7 @@ export default tester({
           |> await
           |> property('data')
         const sourceMappingUrlMatch = content.match(
-          /\\n\/\/# sourceMappingURL=data:application\/json;charset=utf-8;base64,(.*)\\n/
+          /\\n\/\/# sourceMappingURL=data:application\/json;charset=utf-8;base64,(.*?)\\n/
         )
         const sourceMapping = JSON.parse(
           Buffer.from(sourceMappingUrlMatch[1], 'base64').toString('utf-8')
