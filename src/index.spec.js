@@ -25,6 +25,7 @@ export default tester({
         const sourceMappingUrlMatch = content.match(
           /\\n\/\/# sourceMappingURL=data:application\/json;charset=utf-8;base64,(.*)\\n/
         )
+        console.log(Buffer.from(sourceMappingUrlMatch[1], 'base64').toString('utf-8'))
         const sourceMapping = JSON.parse(
           Buffer.from(sourceMappingUrlMatch[1], 'base64').toString('utf-8')
         )
