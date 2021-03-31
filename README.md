@@ -85,7 +85,7 @@ You can of course also use it in your `nuxt.config.js`, but, as said in the desc
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues) or [pull request](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues) or a [pull request](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/pulls)! ⚙️
 
 ## Support
 

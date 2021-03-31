@@ -14,6 +14,7 @@ export default tester({
         }
       `
       await outputFile('pages/index.js', source)
+
       const nuxt = new Nuxt({ dev: true, modules: ['~/../src'] })
       await new Builder(nuxt).build()
       await nuxt.listen()
@@ -22,9 +23,11 @@ export default tester({
           axios.get('http://localhost:3000/_nuxt/pages/index.js')
           |> await
           |> property('data')
+
         const sourceMappingUrlMatch = content.match(
           /\\n\/\/# sourceMappingURL=data:application\/json;charset=utf-8;base64,(.*?)\\n/
         )
+
         const sourceMapping = JSON.parse(
           Buffer.from(sourceMappingUrlMatch[1], 'base64').toString('utf-8')
         )
