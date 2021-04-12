@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.2...v1.0.3) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#6](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/6)) ([dd65b2c](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/dd65b2c7b62d9222acccd086bf51305d86c56a75))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.1...v1.0.2) (2021-03-31)
 
 
