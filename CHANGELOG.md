@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.3...v1.0.4) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#12](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/12)) ([6d34264](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/6d34264378d407a0ec8f17d8cd9303511e240751))
+
 ## [1.0.3](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.2...v1.0.3) (2021-04-12)
 
 
