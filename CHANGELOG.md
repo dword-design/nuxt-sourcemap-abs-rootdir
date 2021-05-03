@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.4...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#15](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/15)) ([37c18e4](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/37c18e4ad52e9eaad577f04f121e4a3610172aef))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.4](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.3...v1.0.4) (2021-04-26)
 
 
