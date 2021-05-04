@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester to v2 ([#17](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/17)) ([2b45b44](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/2b45b4455c27e812e31aea3a72437a55a8e736b9))
+* update dependency fs-extra to v10 ([#18](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/18)) ([03966ed](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/03966ed500444eaba5f4d7c55d0134d69834b25c))
+* update dependency with-local-tmp-dir to v4 ([#19](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/19)) ([df8d200](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/df8d200bca95f211bbc163f739a821ec9da34670))
+
 ## [2.0.1](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
