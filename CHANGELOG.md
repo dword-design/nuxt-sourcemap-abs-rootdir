@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#16](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/16)) ([7ab8012](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/7ab801281d2bfcedea3d9cecb46540b7cc5b7653))
+
 # [2.0.0](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v1.0.4...v2.0.0) (2021-05-03)
 
 
