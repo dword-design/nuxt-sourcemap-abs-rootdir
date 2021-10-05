@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.6...v2.0.7) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependency axios to ^0.22.0 ([f00f15f](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/f00f15f92818808269cb97d48f715f47c51fbf38))
+
 ## [2.0.6](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.5...v2.0.6) (2021-07-20)
 
 
