@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.7...v2.0.8) (2022-01-04)
+
+
+### Bug Fixes
+
+* update config files ([92294c7](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/92294c7a1274527a5f4585f8fa60678e78040e53))
+
 ## [2.0.7](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.6...v2.0.7) (2021-10-05)
 
 
