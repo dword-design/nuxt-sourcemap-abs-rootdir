@@ -1,6 +1,6 @@
 {
   "name": "nuxt-sourcemaps-abs-sourceroot",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Nuxt.js module that outputs an absolute sourceRoot directory in source maps. Mainly useful for testing and code coverage.",
   "repository": "dword-design/nuxt-sourcemaps-abs-sourceroot",
   "funding": "https://github.com/sponsors/dword-design",
