@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.9...v3.0.0) (2023-01-07)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#73](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/issues/73)) ([38c6f1e](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/commit/38c6f1e2de786645be490a5a1d914aed41dd3660))
+
+
+### BREAKING CHANGES
+
+* Drop Node 12 support
+
 ## [2.0.9](https://github.com/dword-design/nuxt-sourcemaps-abs-sourceroot/compare/v2.0.8...v2.0.9) (2022-01-12)
 
 
