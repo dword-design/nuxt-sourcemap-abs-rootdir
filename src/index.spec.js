@@ -34,7 +34,7 @@ export default tester({
         expect(sourceMapping).toEqual({
           file: './pages/index.js.js',
           mappings:
-            'AAAA;AAAe;AACbA,QAAM,EAAE,gBAAAC,CAAC;AAAA;AAAA,eAAe;AAAf;AAAA;AADI,CAAf',
+            'AAAA;AAAe;EACbA,MAAM,EAAE,gBAAAC,CAAC;IAAA;MAAA,SAAe;IAAK;EAAA;AAC/B,CAAC',
           names: ['render', 'h'],
           sourceRoot: process.cwd(),
           sources: ['webpack:///./pages/index.js?44d8'],
